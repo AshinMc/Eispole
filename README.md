@@ -10,7 +10,7 @@ You might wonder where the name of the app Eispole comes from and to be complete
 The app will allow users to pick between the 7 available flavours, namely Vanilla, Chocolate, Butterscotch, Stracciatella, Cookies, Mango and Bubble Gum, the users shall be able to see how much they owe for their order and they will be assigned an order number.
 After placing the order and recieving the order number they can take the app to the kiosk and pay for the ice cream.(Cash only)
 
-A few resources to get you started if this is your first Flutter project:
+A few resources you could use if you don't really know flutter, honestly i would just use chatgpt but u can go ahead and read all this stuff
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
